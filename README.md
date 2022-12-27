@@ -26,3 +26,5 @@ A repo devoted to resources on fairness and explainability.
 [Golnoosh Farnadi](https://gfarnadi.github.io/)
 
 [Elliot Creager](https://www.cs.toronto.edu/~creager/)
+
+# Tools
