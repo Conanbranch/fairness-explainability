@@ -17,6 +17,8 @@ A repo devoted to resources on fairness and explainability.
 
 [Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K., & Galstyan, A. (2021). A Survey on Bias and Fairness in Machine Learning. *ACM Computing Surveys (CSUR)*](https://arxiv.org/pdf/1908.09635.pdf)
 
+# Blog Posts
+
 # People
 
 [Q. Vera Liao](http://qveraliao.com/)
@@ -24,10 +26,3 @@ A repo devoted to resources on fairness and explainability.
 [Golnoosh Farnadi](https://gfarnadi.github.io/)
 
 [Elliot Creager](https://www.cs.toronto.edu/~creager/)
-
-# Blog Posts
-
-
-
-
-
