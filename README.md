@@ -7,7 +7,7 @@ A repo devoted to resources on fairness and explainability.
 
 # Workshops
 
-[Lakkaraju H. (2022). *Stanford Workshop: Machine Learning Explainability*](https://www.youtube.com/playlist?list=PLoROMvodv4rPh6wa6PGcHH6vMG9sEIPxL) [(Slides)](https://docs.google.com/presentation/d/1khY_li29A5aUo_cEVRsvO8pcRn7Xp9Bi/mobilepresent?slide=id.p1)
+[Lakkaraju H. (2022). *Stanford Workshop: Interpreting Machine Learning Models: State-of-the-art, Challenges, Opertunities*](https://www.youtube.com/playlist?list=PLoROMvodv4rPh6wa6PGcHH6vMG9sEIPxL) [(Slides)](https://docs.google.com/presentation/d/1khY_li29A5aUo_cEVRsvO8pcRn7Xp9Bi/mobilepresent?slide=id.p1)
 
 # Papers
 
