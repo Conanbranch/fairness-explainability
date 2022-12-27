@@ -9,9 +9,9 @@ A repo devoted to resources on fairness and explainability
 
 # Papers
 
-[Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K., & Galstyan, A. (2021). A Survey on Bias and Fairness in Machine Learning. *ACM Computing Surveys (CSUR)*, 54(6), 1-35.](https://arxiv.org/pdf/1908.09635.pdf)
+[Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K., & Galstyan, A. (2021). A Survey on Bias and Fairness in Machine Learning. *ACM Computing Surveys (CSUR)*](https://arxiv.org/pdf/1908.09635.pdf)
 
-[Liao, Q. V., Gruen, D., & Miller, S. (2020, April). Questioning the AI: informing design practices for explainable AI user experiences. *In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems* (pp. 1-15).]
+[Liao, Q. V., Gruen, D., & Miller, S. (2020, April). Questioning the AI: informing design practices for explainable AI user experiences. *In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems*](https://arxiv.org/pdf/1908.09635.pdf)
 
 # People
 
