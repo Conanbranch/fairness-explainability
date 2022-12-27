@@ -1,5 +1,5 @@
 # Fairness and Explainability
-A repo devoted to resources on fairness and explainability
+A repo devoted to resources on fairness and explainability.
 
 # Conference Tutorials
 
