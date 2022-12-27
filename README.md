@@ -12,8 +12,11 @@ A repo devoted to resources on fairness and explainability
 # People
 
 [Q. Vera Liao](http://qveraliao.com/)
+
 [Golnoosh Farnadi](https://gfarnadi.github.io/)
+
 [Elliot Creager](https://www.cs.toronto.edu/~creager/)
+
 
 
 
