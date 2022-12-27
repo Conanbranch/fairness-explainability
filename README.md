@@ -7,5 +7,5 @@ A repo devoted to resources on fairness and explainability
 
 # Conference Workshops
 
-# High-Impact Papers
+# Papers
 
