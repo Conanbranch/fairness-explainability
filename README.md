@@ -7,6 +7,8 @@ A repo devoted to resources on fairness and explainability.
 
 # Workshops
 
+[Lakkaraju H. (2022). *Stanford Workshop: Machine Learning Explainability*](https://www.youtube.com/playlist?list=PLoROMvodv4rPh6wa6PGcHH6vMG9sEIPxL)
+
 # Papers
 
 [Arya, V., Bellamy, R. K., Chen, P. Y., Dhurandhar, A., Hind, M., Hoffman, S. C., ... & Zhang, Y. (2019). One Explanation Does Not Fit All: A Toolkit and Taxonomy of AI Explainability Techniques. *arXiv preprint arXiv:1909.03012*](https://arxiv.org/pdf/1909.03012.pdf)
