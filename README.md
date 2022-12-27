@@ -3,11 +3,11 @@ A repo devoted to resources on fairness and explainability.
 
 # Tutorials
 
-[Farnadi, G., Liao, Q.V., Creager, E. (2022). *NeurIPS Tutorial: Algorithmic Fairness: At The Intersections*](https://neurips.cc/virtual/2022/tutorial/55815)
+[Farnadi, G., Liao, Q.V., Creager, E. (2022). *NeurIPS Tutorial: Algorithmic Fairness: At The Intersections*](https://neurips.cc/virtual/2022/tutorial/55815) 
 
 # Workshops
 
-[Lakkaraju H. (2022). *Stanford Workshop: Machine Learning Explainability*](https://www.youtube.com/playlist?list=PLoROMvodv4rPh6wa6PGcHH6vMG9sEIPxL)
+[Lakkaraju H. (2022). *Stanford Workshop: Machine Learning Explainability*](https://www.youtube.com/playlist?list=PLoROMvodv4rPh6wa6PGcHH6vMG9sEIPxL)[(Slides)](https://docs.google.com/presentation/d/1khY_li29A5aUo_cEVRsvO8pcRn7Xp9Bi/mobilepresent?slide=id.p1)
 
 # Papers
 
@@ -32,3 +32,7 @@ A repo devoted to resources on fairness and explainability.
 [Golnoosh Farnadi](https://gfarnadi.github.io/)
 
 [Elliot Creager](https://www.cs.toronto.edu/~creager/)
+
+[Hima Lakkaraju]([https://www.cs.toronto.edu/~creager/](https://himalakkaraju.github.io/))
+
+
