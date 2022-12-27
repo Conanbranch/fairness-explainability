@@ -9,7 +9,7 @@ A repo devoted to resources on fairness and explainability.
 
 # Papers
 
-[Arya, V., Bellamy, R. K., Chen, P. Y., Dhurandhar, A., Hind, M., Hoffman, S. C., ... & Zhang, Y. (2019). One Explanation Does Not Git All: A Toolkit and Taxonomy of AI Explainability Techniques. *arXiv preprint arXiv:1909.03012*](https://arxiv.org/pdf/1909.03012.pdf)
+[Arya, V., Bellamy, R. K., Chen, P. Y., Dhurandhar, A., Hind, M., Hoffman, S. C., ... & Zhang, Y. (2019). One Explanation Does Not Fit All: A Toolkit and Taxonomy of AI Explainability Techniques. *arXiv preprint arXiv:1909.03012*](https://arxiv.org/pdf/1909.03012.pdf)
 
 [Karimi, A. H., Barthe, G., Schölkopf, B., & Valera, I. (2022). A Survey of Algorithmic Recourse: Contrastive Explanations and Consequential Recommendations. *ACM Computing Surveys*](https://arxiv.org/pdf/2010.04050.pdf)
 
