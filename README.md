@@ -33,6 +33,6 @@ A repo devoted to resources on fairness, explainability, and interprebility in m
 
 [Elliot Creager](https://www.cs.toronto.edu/~creager/)
 
-[Hima Lakkaraju]((https://himalakkaraju.github.io/)
+[Hima Lakkaraju](https://himalakkaraju.github.io/)
 
 
