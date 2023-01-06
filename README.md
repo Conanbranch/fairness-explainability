@@ -35,11 +35,8 @@ A repo devoted to providing resources in fairness, explainability, and interpreb
 
 [Hima Lakkaraju](https://himalakkaraju.github.io/)
 
-# Regulations
-
-<details>
-<summary>Canada</summary> 
+# Regulations and Laws - Canada
 
 [Canadian Human Rights Act](https://laws-lois.justice.gc.ca/eng/acts/h-6/)
 
-</details>
+[Artificial Intelligence and Data Act - AIDA]([https://laws-lois.justice.gc.ca/eng/acts/h-6/](https://www.parl.ca/DocumentViewer/en/44-1/bill/C-27/first-reading))
