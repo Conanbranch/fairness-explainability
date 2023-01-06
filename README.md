@@ -35,6 +35,8 @@ A repo devoted to providing resources in fairness, explainability, and interpreb
 
 [Hima Lakkaraju](https://himalakkaraju.github.io/)
 
-# Regulations - Canada
+<summary>Regulation</summary>
+
+# Canada
 
 
