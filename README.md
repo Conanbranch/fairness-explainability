@@ -37,6 +37,8 @@ A repo devoted to providing resources in fairness, explainability, and interpreb
 
 [Hima Lakkaraju](https://himalakkaraju.github.io/)
 
+[Cynthia Rudin](https://users.cs.duke.edu/~cynthia/)
+
 # Regulations and Laws - Canada
 
 [Canadian Human Rights Act](https://laws-lois.justice.gc.ca/eng/acts/h-6/)
