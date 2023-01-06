@@ -19,7 +19,7 @@ A repo devoted to providing resources in fairness, explainability, and interpreb
 
 [Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K., & Galstyan, A. (2021). A Survey on Bias and Fairness in Machine Learning. *ACM Computing Surveys (CSUR)*](https://arxiv.org/pdf/1908.09635.pdf)
 
-[Rudin, C. (2019). Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead. *Nature Machine Intelligence*](https://arxiv.org/pdf/1811.10154.pdf)
+[Rudin, C. (2019). Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and use Interpretable Models Instead. *Nature Machine Intelligence*](https://arxiv.org/pdf/1811.10154.pdf)
 
 [Tran, C., Dinh, M., & Fioretto, F. (2021). Differentially Private Empirical Risk Minimization Under the Fairness Lens. *Advances in Neural Information Processing Systems*](https://proceedings.neurips.cc/paper/2021/file/e7e8f8e5982b3298c8addedf6811d500-Paper.pdf)
 
