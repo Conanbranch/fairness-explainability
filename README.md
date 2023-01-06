@@ -37,8 +37,8 @@ A repo devoted to providing resources in fairness, explainability, and interpreb
 
 <details>
 
-<summary>Regulation</summary>
+<summary># Regulations and Laws</summary> 
 
-# Canada
+## Canada
 
 </details>
