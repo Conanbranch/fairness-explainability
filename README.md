@@ -21,6 +21,8 @@ A repo devoted to providing resources in fairness, explainability, and interpreb
 
 [Tran, C., Dinh, M., & Fioretto, F. (2021). Differentially Private Empirical Risk Minimization Under the Fairness Lens. *Advances in Neural Information Processing Systems*](https://proceedings.neurips.cc/paper/2021/file/e7e8f8e5982b3298c8addedf6811d500-Paper.pdf)
 
+[Rudin, C. (2019). Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead. *Nature Machine Intelligence*](https://arxiv.org/pdf/1811.10154.pdf)
+
 # Posts
 
 [Miller K. (2021) Should AI Models Be Explainable? That Depends. *Standford University*](https://hai.stanford.edu/news/should-ai-models-be-explainable-depends)
