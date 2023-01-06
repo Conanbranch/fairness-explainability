@@ -39,7 +39,7 @@ A repo devoted to providing resources in fairness, explainability, and interpreb
 
 <details>
 <summary>Canada</summary> 
-
+<br>
 [Canadian Human Rights Act](https://laws-lois.justice.gc.ca/eng/acts/h-6/)
 
 </details>
