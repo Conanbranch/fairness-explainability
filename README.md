@@ -37,8 +37,6 @@ A repo devoted to providing resources in fairness, explainability, and interpreb
 
 [Millidge, B. & Black, S. (2022) The Singular Value Decompositions of Transformer Weight Matrices are Highly Interpretable. *AI Allignment Forum*](https://www.alignmentforum.org/posts/mkbGjzxD8d8XqKHzA/the-singular-value-decompositions-of-transformer-weight)
 
-Beren Millidge, Sid Black
-
 # Tools and Libraries
 
 [AI Fairness 360 (Python and R)](https://github.com/Trusted-AI/AIF360)
