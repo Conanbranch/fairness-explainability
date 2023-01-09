@@ -5,7 +5,7 @@ A repo devoted to providing resources in fairness, explainability, and interpreb
 
 [Canadian Human Rights Act](https://laws-lois.justice.gc.ca/eng/acts/h-6/)
 
-[AIDA - Artificial Intelligence and Data Act](https://www.parl.ca/DocumentViewer/en/44-1/bill/C-27/first-reading)
+[AIDA - Artificial Intelligence and Data Act](https://www.parl.ca/legisinfo/en/bill/44-1/c-27)
 
 # Tutorials
 
