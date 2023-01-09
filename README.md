@@ -31,7 +31,9 @@ A repo devoted to providing resources in fairness, explainability, and interpreb
 
 # Tools and Libraries
 
-[AI Fairness 360 (Python)](https://github.com/Trusted-AI/AIF360)
+[AI Fairness 360 (Python and R)](https://github.com/Trusted-AI/AIF360)
+
+[Fairlearn (Python)](https://github.com/fairlearn/fairlearn)
 
 # People
 
