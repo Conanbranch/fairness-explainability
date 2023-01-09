@@ -1,6 +1,12 @@
 # Fairness, Explainability, and Interpretability
 A repo devoted to providing resources in fairness, explainability, and interprebility in machine learning.
 
+# Regulations and Laws - Canada
+
+[Canadian Human Rights Act](https://laws-lois.justice.gc.ca/eng/acts/h-6/)
+
+[AIDA - Artificial Intelligence and Data Act](https://www.parl.ca/DocumentViewer/en/44-1/bill/C-27/first-reading)
+
 # Tutorials
 
 [Farnadi, G., Liao, Q.V., Creager, E. (2022). *NeurIPS Tutorial: Algorithmic Fairness: At The Intersections*](https://neurips.cc/virtual/2022/tutorial/55815) 
@@ -46,9 +52,3 @@ A repo devoted to providing resources in fairness, explainability, and interpreb
 [Hima Lakkaraju](https://himalakkaraju.github.io/)
 
 [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/)
-
-# Regulations and Laws - Canada
-
-[Canadian Human Rights Act](https://laws-lois.justice.gc.ca/eng/acts/h-6/)
-
-[AIDA - Artificial Intelligence and Data Act](https://www.parl.ca/DocumentViewer/en/44-1/bill/C-27/first-reading)
