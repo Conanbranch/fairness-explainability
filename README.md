@@ -31,6 +31,8 @@ A repo devoted to providing resources in fairness, explainability, and interpreb
 
 # Tools and Libraries
 
+[AI Fairness 360 (Python)](https://github.com/Trusted-AI/AIF360)
+
 # People
 
 [Q. Vera Liao](http://qveraliao.com/)
