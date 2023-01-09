@@ -29,7 +29,7 @@ A repo devoted to providing resources in fairness, explainability, and interpreb
 
 [Miller K. (2021) Should AI Models Be Explainable? That Depends. *Standford University*](https://hai.stanford.edu/news/should-ai-models-be-explainable-depends)
 
-# Tools
+# Tools and Libraries
 
 # People
 
