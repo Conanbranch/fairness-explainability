@@ -33,7 +33,11 @@ A repo devoted to providing resources in fairness, explainability, and interpreb
 
 # Posts
 
-[Miller K. (2021) Should AI Models Be Explainable? That Depends. *Standford University*](https://hai.stanford.edu/news/should-ai-models-be-explainable-depends)
+[Miller, K. (2021) Should AI Models Be Explainable? That Depends. *Standford University*](https://hai.stanford.edu/news/should-ai-models-be-explainable-depends)
+
+[Millidge, B. & Black, S. (2022) The Singular Value Decompositions of Transformer Weight Matrices are Highly Interpretable. *AI Allignment Forum*](https://www.alignmentforum.org/posts/mkbGjzxD8d8XqKHzA/the-singular-value-decompositions-of-transformer-weight)
+
+Beren Millidge, Sid Black
 
 # Tools and Libraries
 
