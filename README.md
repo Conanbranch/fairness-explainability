@@ -17,19 +17,25 @@ A repo devoted to providing resources in fairness, explainability, and interpreb
 
 # Papers
 
+## Interpretability
+
+[Letham, B., Rudin, C., McCormick, T. H., & Madigan, D. (2015). Interpretable Classifiers using Rules and Bayesian Analysis: Building a Better Stroke Prediction model. *The Annals of Applied Statistics*](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-9/issue-3/Interpretable-classifiers-using-rules-and-Bayesian-analysis--Building-a/10.1214/15-AOAS848.pdf)
+
+[Rudin, C. (2019). Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and use Interpretable Models Instead. *Nature Machine Intelligence*](https://arxiv.org/pdf/1811.10154.pdf)
+
+## Explainability
+
 [Arya, V., Bellamy, R. K., Chen, P. Y., Dhurandhar, A., Hind, M., Hoffman, S. C., ... & Zhang, Y. (2019). One Explanation Does Not Fit All: A Toolkit and Taxonomy of AI Explainability Techniques. *arXiv preprint arXiv:1909.03012*](https://arxiv.org/pdf/1909.03012.pdf)
 
 [Guidotti, R., Monreale, A., Ruggieri, S., Turini, F., Giannotti, F., & Pedreschi, D. (2018). A Survey of Methods for Explaining Black Box Models. *ACM Computing Surveys (CSUR)*](https://dl.acm.org/doi/pdf/10.1145/3236009)
 
-[Karimi, A. H., Barthe, G., Schölkopf, B., & Valera, I. (2022). A Survey of Algorithmic Recourse: Contrastive Explanations and Consequential Recommendations. *ACM Computing Surveys*](https://arxiv.org/pdf/2010.04050.pdf)
-
-[Letham, B., Rudin, C., McCormick, T. H., & Madigan, D. (2015). Interpretable Classifiers using Rules and Bayesian Analysis: Building a Better Stroke Prediction model. *The Annals of Applied Statistics*](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-9/issue-3/Interpretable-classifiers-using-rules-and-Bayesian-analysis--Building-a/10.1214/15-AOAS848.pdf)
-
 [Liao, Q. V., Gruen, D., & Miller, S. (2020). Questioning the AI: Informing Design Practices for Explainable AI User Experiences. *In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems*](https://arxiv.org/pdf/1908.09635.pdf)
 
-[Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K., & Galstyan, A. (2021). A Survey on Bias and Fairness in Machine Learning. *ACM Computing Surveys (CSUR)*](https://arxiv.org/pdf/1908.09635.pdf)
+## Fairness
 
-[Rudin, C. (2019). Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and use Interpretable Models Instead. *Nature Machine Intelligence*](https://arxiv.org/pdf/1811.10154.pdf)
+[Karimi, A. H., Barthe, G., Schölkopf, B., & Valera, I. (2022). A Survey of Algorithmic Recourse: Contrastive Explanations and Consequential Recommendations. *ACM Computing Surveys*](https://arxiv.org/pdf/2010.04050.pdf)
+
+[Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K., & Galstyan, A. (2021). A Survey on Bias and Fairness in Machine Learning. *ACM Computing Surveys (CSUR)*](https://arxiv.org/pdf/1908.09635.pdf)
 
 [Tran, C., Dinh, M., & Fioretto, F. (2021). Differentially Private Empirical Risk Minimization Under the Fairness Lens. *Advances in Neural Information Processing Systems*](https://proceedings.neurips.cc/paper/2021/file/e7e8f8e5982b3298c8addedf6811d500-Paper.pdf)
 
