@@ -37,6 +37,8 @@ Sorted from the perspective of interpretability, explainability, and fairness.
 
 [Wachter, S., Mittelstadt, B., & Russell, C. (2017). Counterfactual Explanations without Opening the Black Box: Automated Decisions and the GDPR. Harv. *JL & Tech*](https://jolt.law.harvard.edu/assets/articlePDFs/v31/Counterfactual-Explanations-without-Opening-the-Black-Box-Sandra-Wachter-et-al.pdf)
 
+[Ustun, B., Spangher, A., & Liu, Y. (2019). Actionable Recourse in Linear Classification. *In Proceedings of the Conference on Fairness, Accountability, and Transparency*](https://arxiv.org/pdf/1809.06514.pdf)
+
 ## Fairness
 
 [Karimi, A. H., Barthe, G., Schölkopf, B., & Valera, I. (2022). A Survey of Algorithmic Recourse: Contrastive Explanations and Consequential Recommendations. *ACM Computing Surveys*](https://arxiv.org/pdf/2010.04050.pdf)
