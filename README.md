@@ -33,7 +33,11 @@ Sorted from the perspective of interpretability, explainability, and fairness.
 
 [Liao, Q. V., Gruen, D., & Miller, S. (2020). Questioning the AI: Informing Design Practices for Explainable AI User Experiences. *In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems*](https://arxiv.org/pdf/1908.09635.pdf)
 
-[Verma, S., Dickerson, J., & Hines, K. (2020). Counterfactual Explanations for Machine Learning: A Review. *arXiv preprint arXiv:2010.10596.*](https://arxiv.org/pdf/2010.10596.pdf)
+[Verma, S., Dickerson, J., & Hines, K. (2020). Counterfactual Explanations for Machine Learning: A Review. *arXiv preprint arXiv:2010.10596*](https://arxiv.org/pdf/2010.10596.pdf)
+
+[Wachter, S., Mittelstadt, B., & Russell, C. (2017). Counterfactual Explanations without Opening the Black Box: Automated Decisions and the GDPR. Harv. *JL & Tech*](https://jolt.law.harvard.edu/assets/articlePDFs/v31/Counterfactual-Explanations-without-Opening-the-Black-Box-Sandra-Wachter-et-al.pdf)
+
+COUNTERFACTUAL EXPLANATIONS WITHOUT OPENING THE BLACK BOX: AUTOMATED DECISIONS AND THE GDPR
 
 ## Fairness
 
@@ -42,6 +46,8 @@ Sorted from the perspective of interpretability, explainability, and fairness.
 [Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K., & Galstyan, A. (2021). A Survey on Bias and Fairness in Machine Learning. *ACM Computing Surveys (CSUR)*](https://arxiv.org/pdf/1908.09635.pdf)
 
 [Tran, C., Dinh, M., & Fioretto, F. (2021). Differentially Private Empirical Risk Minimization Under the Fairness Lens. *Advances in Neural Information Processing Systems*](https://proceedings.neurips.cc/paper/2021/file/e7e8f8e5982b3298c8addedf6811d500-Paper.pdf)
+
+[Verma, S., & Rubin, J. (2018, May). Fairness Definitions Explained. *In 2018 IEEE/ACM International Workshop on Software Fairness (Fairware).*](https://vsahil.github.io/files/papers/Fairness_Definitions_Explained_2018.pdf)
 
 # Posts
 
