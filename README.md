@@ -39,6 +39,8 @@ Sorted from the perspective of interpretability, explainability, and fairness.
 
 [Ustun, B., Spangher, A., & Liu, Y. (2019). Actionable Recourse in Linear Classification. *In Proceedings of the Conference on Fairness, Accountability, and Transparency*](https://arxiv.org/pdf/1809.06514.pdf)
 
+[Pawelczyk, M., Agarwal, C., Joshi, S., Upadhyay, S., & Lakkaraju, H. (2022). Exploring Counterfactual Explanations through the Lens of Adversarial Examples: A Theoretical and Empirical Analysis. *In International Conference on Artificial Intelligence and Statistics. PMLR.*](https://arxiv.org/pdf/2106.09992.pdf)
+
 ## Fairness
 
 [Karimi, A. H., Barthe, G., Schölkopf, B., & Valera, I. (2022). A Survey of Algorithmic Recourse: Contrastive Explanations and Consequential Recommendations. *ACM Computing Surveys*](https://arxiv.org/pdf/2010.04050.pdf)
