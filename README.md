@@ -33,13 +33,14 @@ Sorted from the perspective of interpretability, explainability, and fairness.
 
 [Liao, Q. V., Gruen, D., & Miller, S. (2020). Questioning the AI: Informing Design Practices for Explainable AI User Experiences. *In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems*](https://arxiv.org/pdf/1908.09635.pdf)
 
+[Pawelczyk, M., Agarwal, C., Joshi, S., Upadhyay, S., & Lakkaraju, H. (2022). Exploring Counterfactual Explanations through the Lens of Adversarial Examples: A Theoretical and Empirical Analysis. *In International Conference on Artificial Intelligence and Statistics. PMLR.*](https://arxiv.org/pdf/2106.09992.pdf)
+
+[Ustun, B., Spangher, A., & Liu, Y. (2019). Actionable Recourse in Linear Classification. *In Proceedings of the Conference on Fairness, Accountability, and Transparency*](https://arxiv.org/pdf/1809.06514.pdf)
+
 [Verma, S., Dickerson, J., & Hines, K. (2020). Counterfactual Explanations for Machine Learning: A Review. *arXiv preprint arXiv:2010.10596*](https://arxiv.org/pdf/2010.10596.pdf)
 
 [Wachter, S., Mittelstadt, B., & Russell, C. (2017). Counterfactual Explanations without Opening the Black Box: Automated Decisions and the GDPR. Harv. *JL & Tech*](https://jolt.law.harvard.edu/assets/articlePDFs/v31/Counterfactual-Explanations-without-Opening-the-Black-Box-Sandra-Wachter-et-al.pdf)
 
-[Ustun, B., Spangher, A., & Liu, Y. (2019). Actionable Recourse in Linear Classification. *In Proceedings of the Conference on Fairness, Accountability, and Transparency*](https://arxiv.org/pdf/1809.06514.pdf)
-
-[Pawelczyk, M., Agarwal, C., Joshi, S., Upadhyay, S., & Lakkaraju, H. (2022). Exploring Counterfactual Explanations through the Lens of Adversarial Examples: A Theoretical and Empirical Analysis. *In International Conference on Artificial Intelligence and Statistics. PMLR.*](https://arxiv.org/pdf/2106.09992.pdf)
 
 ## Fairness
 
