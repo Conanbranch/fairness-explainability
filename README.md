@@ -31,6 +31,8 @@ A repo devoted to providing resources in fairness, explainability, and interpreb
 
 [Tran, C., Dinh, M., & Fioretto, F. (2021). Differentially Private Empirical Risk Minimization Under the Fairness Lens. *Advances in Neural Information Processing Systems*](https://proceedings.neurips.cc/paper/2021/file/e7e8f8e5982b3298c8addedf6811d500-Paper.pdf)
 
+[Letham, B., Rudin, C., McCormick, T. H., & Madigan, D. (2015). Interpretable classifiers using rules and bayesian analysis: Building a better stroke prediction model. *The Annals of Applied Statistics*](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-9/issue-3/Interpretable-classifiers-using-rules-and-Bayesian-analysis--Building-a/10.1214/15-AOAS848.pdf)
+
 # Posts
 
 [Miller, K. (2021) Should AI Models Be Explainable? That Depends. *Standford University*](https://hai.stanford.edu/news/should-ai-models-be-explainable-depends)
