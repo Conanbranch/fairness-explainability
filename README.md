@@ -21,7 +21,7 @@ Sorted from the perspective of interpretability, explainability, and fairness.
 
 ## Interpretability
 
-[Letham, B., Rudin, C., McCormick, T. H., & Madigan, D. (2015). Interpretable Classifiers using Rules and Bayesian Analysis: Building a Better Stroke Prediction model. *The Annals of Applied Statistics*](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-9/issue-3/Interpretable-classifiers-using-rules-and-Bayesian-analysis--Building-a/10.1214/15-AOAS848.pdf)
+[Letham, B., Rudin, C., McCormick, T. H., & Madigan, D. (2015). Interpretable Classifiers using Rules and Bayesian Analysis: Building a Better Stroke Prediction Model. *The Annals of Applied Statistics*](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-9/issue-3/Interpretable-classifiers-using-rules-and-Bayesian-analysis--Building-a/10.1214/15-AOAS848.pdf)
 
 [Rudin, C. (2019). Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and use Interpretable Models Instead. *Nature Machine Intelligence*](https://arxiv.org/pdf/1811.10154.pdf)
 
