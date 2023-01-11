@@ -59,6 +59,8 @@ Sorted from the perspective of interpretability, explainability, and fairness.
 
 # Regulations, Laws, Strategies, Guidelines
 
+Several pplicable government documents regarding AI and ML. This is not a comprehensive list. 
+
 ## Canada
 
 [Canadian Human Rights Act](https://laws-lois.justice.gc.ca/eng/acts/h-6/)
