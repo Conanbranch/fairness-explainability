@@ -45,12 +45,6 @@ Sorted from the perspective of interpretability, explainability, and fairness.
 
 [Verma, S., & Rubin, J. (2018, May). Fairness Definitions Explained. *In 2018 IEEE/ACM International Workshop on Software Fairness (Fairware).*](https://vsahil.github.io/files/papers/Fairness_Definitions_Explained_2018.pdf)
 
-# Posts
-
-[Miller, K. (2021) Should AI Models Be Explainable? That Depends. *Standford University*](https://hai.stanford.edu/news/should-ai-models-be-explainable-depends)
-
-[Millidge, B. & Black, S. (2022) The Singular Value Decompositions of Transformer Weight Matrices are Highly Interpretable. *AI Allignment Forum*](https://www.alignmentforum.org/posts/mkbGjzxD8d8XqKHzA/the-singular-value-decompositions-of-transformer-weight)
-
 # Tools and Libraries
 
 [Shap](https://github.com/slundberg/shap)
@@ -98,3 +92,11 @@ Several applicable documents regarding AI and ML. This is not a comprehensive li
 [Hima Lakkaraju](https://himalakkaraju.github.io/)
 
 [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/)
+
+# Posts
+
+[Miller, K. (2021) Should AI Models Be Explainable? That Depends. *Standford University*](https://hai.stanford.edu/news/should-ai-models-be-explainable-depends)
+
+[Millidge, B. & Black, S. (2022) The Singular Value Decompositions of Transformer Weight Matrices are Highly Interpretable. *AI Allignment Forum*](https://www.alignmentforum.org/posts/mkbGjzxD8d8XqKHzA/the-singular-value-decompositions-of-transformer-weight)
+
+[Explain Your Model with the SHAP Values](https://medium.com/dataman-in-ai/explain-your-model-with-the-shap-values-bc36aac4de3d)
