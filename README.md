@@ -19,6 +19,8 @@ Sorted from the perspective of interpretability, explainability, and fairness.
 
 [Rudin, C. (2019). Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and use Interpretable Models Instead. *Nature Machine Intelligence*](https://arxiv.org/pdf/1811.10154.pdf)
 
+[Elhage, N., ... & Olah C. (2022). Softmax Linear Units](https://transformer-circuits.pub/2022/solu/index.html)
+
 ## Explainability
 
 [Arya, V., Bellamy, R. K., Chen, P. Y., Dhurandhar, A., Hind, M., Hoffman, S. C., ... & Zhang, Y. (2019). One Explanation Does Not Fit All: A Toolkit and Taxonomy of AI Explainability Techniques. *arXiv preprint arXiv:1909.03012*](https://arxiv.org/pdf/1909.03012.pdf)
