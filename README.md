@@ -15,7 +15,7 @@ A repo devoted to providing resources in fairness, explainability, and interpreb
 
 ## UK
 
-[National AI Strategy - Press Release and Text](https://www.gov.uk/government/publications/national-ai-strategy)
+[National AI Strategy](https://www.gov.uk/government/publications/national-ai-strategy)
 
 # Tutorials
 
