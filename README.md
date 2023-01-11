@@ -53,9 +53,17 @@ Sorted from the perspective of interpretability, explainability, and fairness.
 
 # Tools and Libraries
 
-[AI Fairness 360 (Python and R)](https://github.com/Trusted-AI/AIF360)
+[AI Fairness 360](https://github.com/Trusted-AI/AIF360)
 
-[Fairlearn (Python)](https://github.com/fairlearn/fairlearn)
+[Fairlearn](https://github.com/fairlearn/fairlearn)
+
+[InterpretML](https://github.com/interpretml/interpret)
+
+%[OpenXAI](https://github.com/AI4LIFE-GROUP/OpenXAI)
+
+[Captum](https://github.com/pytorch/captum)
+
+%[Quantus](https://github.com/understandable-machine-intelligence-lab/Quantus)
 
 # Regulations, Laws, Strategies, Guidelines
 
