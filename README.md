@@ -11,7 +11,7 @@ A repo devoted to providing resources in fairness, explainability, and interpreb
 
 ## European Union
 
-[Artificial Intelligence Act - Press Release and Text](https://www.consilium.europa.eu/en/press/press-releases/2022/12/06/artificial-intelligence-act-council-calls-for-promoting-safe-ai-that-respects-fundamental-rights/#:~:text=The%20Council%20has%20adopted%20its,fundamental%20rights%20and%20Union%20values.)
+[Artificial Intelligence Act](https://www.consilium.europa.eu/en/press/press-releases/2022/12/06/artificial-intelligence-act-council-calls-for-promoting-safe-ai-that-respects-fundamental-rights/#:~:text=The%20Council%20has%20adopted%20its,fundamental%20rights%20and%20Union%20values.)
 
 ## UK
 
