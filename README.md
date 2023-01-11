@@ -1,7 +1,7 @@
 # Fairness, Explainability, and Interpretability
 A repo devoted to providing resources in fairness, explainability, and interprebility in machine learning.
 
-# Regulations and Laws
+# Regulations, Laws, Strategies, Guidelines
 
 ## Canada
 
@@ -9,9 +9,13 @@ A repo devoted to providing resources in fairness, explainability, and interpreb
 
 [AIDA - Artificial Intelligence and Data Act](https://www.parl.ca/legisinfo/en/bill/44-1/c-27)
 
-## Europe
+## European Union
 
 [Artificial Intelligence Act - Press Release and Text](https://www.consilium.europa.eu/en/press/press-releases/2022/12/06/artificial-intelligence-act-council-calls-for-promoting-safe-ai-that-respects-fundamental-rights/#:~:text=The%20Council%20has%20adopted%20its,fundamental%20rights%20and%20Union%20values.)
+
+## UK
+
+[National AI Strategy - Press Release and Text](https://www.gov.uk/government/publications/national-ai-strategy)
 
 # Tutorials
 
