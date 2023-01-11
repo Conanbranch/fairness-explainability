@@ -1,22 +1,6 @@
 # Fairness, Explainability, and Interpretability
 A repo devoted to providing resources in fairness, explainability, and interprebility in machine learning.
 
-# Regulations, Laws, Strategies, Guidelines
-
-## Canada
-
-[Canadian Human Rights Act](https://laws-lois.justice.gc.ca/eng/acts/h-6/)
-
-[AIDA - Artificial Intelligence and Data Act](https://www.parl.ca/legisinfo/en/bill/44-1/c-27)
-
-## European Union
-
-[Artificial Intelligence Act](https://www.consilium.europa.eu/en/press/press-releases/2022/12/06/artificial-intelligence-act-council-calls-for-promoting-safe-ai-that-respects-fundamental-rights/#:~:text=The%20Council%20has%20adopted%20its,fundamental%20rights%20and%20Union%20values.)
-
-## UK
-
-[National AI Strategy](https://www.gov.uk/government/publications/national-ai-strategy)
-
 # Tutorials
 
 [Farnadi, G., Liao, Q.V., Creager, E. (2022). *NeurIPS Tutorial: Algorithmic Fairness: At The Intersections*](https://neurips.cc/virtual/2022/tutorial/55815) 
@@ -51,7 +35,6 @@ Sorted from the perspective of interpretability, explainability, and fairness.
 
 [Wachter, S., Mittelstadt, B., & Russell, C. (2017). Counterfactual Explanations without Opening the Black Box: Automated Decisions and the GDPR. Harv. *JL & Tech*](https://jolt.law.harvard.edu/assets/articlePDFs/v31/Counterfactual-Explanations-without-Opening-the-Black-Box-Sandra-Wachter-et-al.pdf)
 
-
 ## Fairness
 
 [Karimi, A. H., Barthe, G., Schölkopf, B., & Valera, I. (2022). A Survey of Algorithmic Recourse: Contrastive Explanations and Consequential Recommendations. *ACM Computing Surveys*](https://arxiv.org/pdf/2010.04050.pdf)
@@ -73,6 +56,22 @@ Sorted from the perspective of interpretability, explainability, and fairness.
 [AI Fairness 360 (Python and R)](https://github.com/Trusted-AI/AIF360)
 
 [Fairlearn (Python)](https://github.com/fairlearn/fairlearn)
+
+# Regulations, Laws, Strategies, Guidelines
+
+## Canada
+
+[Canadian Human Rights Act](https://laws-lois.justice.gc.ca/eng/acts/h-6/)
+
+[AIDA - Artificial Intelligence and Data Act](https://www.parl.ca/legisinfo/en/bill/44-1/c-27)
+
+## European Union
+
+[Artificial Intelligence Act](https://www.consilium.europa.eu/en/press/press-releases/2022/12/06/artificial-intelligence-act-council-calls-for-promoting-safe-ai-that-respects-fundamental-rights/#:~:text=The%20Council%20has%20adopted%20its,fundamental%20rights%20and%20Union%20values.)
+
+## UK
+
+[National AI Strategy](https://www.gov.uk/government/publications/national-ai-strategy)
 
 # People
 
