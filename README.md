@@ -59,11 +59,11 @@ Sorted from the perspective of interpretability, explainability, and fairness.
 
 [InterpretML](https://github.com/interpretml/interpret)
 
-%[OpenXAI](https://github.com/AI4LIFE-GROUP/OpenXAI)
+[OpenXAI](https://github.com/AI4LIFE-GROUP/OpenXAI)
 
 [Captum](https://github.com/pytorch/captum)
 
-%[Quantus](https://github.com/understandable-machine-intelligence-lab/Quantus)
+[Quantus](https://github.com/understandable-machine-intelligence-lab/Quantus)
 
 # Regulations, Laws, Strategies, Guidelines
 
