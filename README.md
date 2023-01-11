@@ -53,6 +53,10 @@ Sorted from the perspective of interpretability, explainability, and fairness.
 
 # Tools and Libraries
 
+[Shap](https://github.com/slundberg/shap)
+
+[Lime](https://github.com/marcotcr/lime)
+
 [AI Fairness 360](https://github.com/Trusted-AI/AIF360)
 
 [Fairlearn](https://github.com/fairlearn/fairlearn)
