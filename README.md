@@ -67,6 +67,8 @@ Sorted from the perspective of interpretability, explainability, and fairness.
 
 [Diverse Counterfactual Explanations (DiCE) for ML](https://github.com/interpretml/DiCE)
 
+[Feasible Counterfactual Explanations](https://github.com/divyat09/cf-feasibility)
+
 [OpenXAI](https://github.com/AI4LIFE-GROUP/OpenXAI)
 
 # Regulations, Laws, Strategies, Guidelines
