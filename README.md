@@ -27,6 +27,10 @@ Sorted from the perspective of interpretability, explainability, and fairness.
 
 [Guidotti, R., Monreale, A., Ruggieri, S., Turini, F., Giannotti, F., & Pedreschi, D. (2018). A Survey of Methods for Explaining Black Box Models. *ACM Computing Surveys (CSUR)*](https://dl.acm.org/doi/pdf/10.1145/3236009)
 
+[Mahajan, D., Tan, C., & Sharma, A. (2019). Preserving Causal Constraints in Counterfactual Explanations for Machine Learning Classifiers. *arXiv preprint arXiv:1912.03277*](https://arxiv.org/pdf/1912.03277.pdf)
+
+[Mothilal, R. K., Sharma, A., & Tan, C. (2020). Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency.](https://dl.acm.org/doi/pdf/10.1145/3351095.3372850)
+
 [Liao, Q. V., Gruen, D., & Miller, S. (2020). Questioning the AI: Informing Design Practices for Explainable AI User Experiences. *In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems*](https://arxiv.org/pdf/1908.09635.pdf)
 
 [Pawelczyk, M., Agarwal, C., Joshi, S., Upadhyay, S., & Lakkaraju, H. (2022). Exploring Counterfactual Explanations through the Lens of Adversarial Examples: A Theoretical and Empirical Analysis. *In International Conference on Artificial Intelligence and Statistics. PMLR.*](https://arxiv.org/pdf/2106.09992.pdf)
@@ -36,8 +40,6 @@ Sorted from the perspective of interpretability, explainability, and fairness.
 [Verma, S., Dickerson, J., & Hines, K. (2020). Counterfactual Explanations for Machine Learning: A Review. *arXiv preprint arXiv:2010.10596*](https://arxiv.org/pdf/2010.10596.pdf)
 
 [Wachter, S., Mittelstadt, B., & Russell, C. (2017). Counterfactual Explanations without Opening the Black Box: Automated Decisions and the GDPR. Harv. *JL & Tech*](https://jolt.law.harvard.edu/assets/articlePDFs/v31/Counterfactual-Explanations-without-Opening-the-Black-Box-Sandra-Wachter-et-al.pdf)
-
-[Mahajan, D., Tan, C., & Sharma, A. (2019). Preserving Causal Constraints in Counterfactual Explanations for Machine Learning Classifiers. *arXiv preprint arXiv:1912.03277*](https://arxiv.org/pdf/1912.03277.pdf)
 
 ## Fairness
 
