@@ -111,6 +111,8 @@ Several applicable documents regarding AI and ML. This is not a comprehensive li
 
 [Kuo, C. (2020) Explain Your Model with the SHAP Values. *Medium*](https://medium.com/dataman-in-ai/explain-your-model-with-the-shap-values-bc36aac4de3d)
 
-# Courses
+# Courses and Additional Resources
 
 [Interpretability and Explainability in Machine Learning. OMPSCI 282BR. *Harvard University*](https://interpretable-ml-class.github.io/)
+
+[Explaining Machine Learning Predictions State-of-the-art, Challenges, and Opportunities](https://explainml-tutorial.github.io/)
