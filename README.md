@@ -116,3 +116,5 @@ Several applicable documents regarding AI and ML. This is not a comprehensive li
 [Interpretability and Explainability in Machine Learning. OMPSCI 282BR. *Harvard University*](https://interpretable-ml-class.github.io/)
 
 [Explaining Machine Learning Predictions State-of-the-art, Challenges, and Opportunities](https://explainml-tutorial.github.io/)
+
+[Trustworthy ML](https://www.trustworthyml.org/)
