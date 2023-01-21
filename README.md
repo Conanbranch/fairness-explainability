@@ -110,3 +110,7 @@ Several applicable documents regarding AI and ML. This is not a comprehensive li
 [Millidge, B. & Black, S. (2022) The Singular Value Decompositions of Transformer Weight Matrices are Highly Interpretable. *AI Allignment Forum*](https://www.alignmentforum.org/posts/mkbGjzxD8d8XqKHzA/the-singular-value-decompositions-of-transformer-weight)
 
 [Kuo, C. (2020) Explain Your Model with the SHAP Values. *Medium*](https://medium.com/dataman-in-ai/explain-your-model-with-the-shap-values-bc36aac4de3d)
+
+# Courses
+
+[Interpretability and Explainability in Machine Learning. OMPSCI 282BR. *Harvard University*](https://interpretable-ml-class.github.io/)
