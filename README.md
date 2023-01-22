@@ -1,5 +1,5 @@
 # Fairness, Explainability, and Interpretability
-A repo devoted to public resources in fairness, explainability, and interprebility in machine learning.
+A repo devoted to publicly available resources in fairness, explainability, and interprebility in machine learning.
 
 # Tutorials
 
