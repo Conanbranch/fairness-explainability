@@ -120,3 +120,9 @@ Several applicable documents regarding AI and ML. This is not a comprehensive li
 [Explaining Machine Learning Predictions State-of-the-art, Challenges, and Opportunities](https://explainml-tutorial.github.io/)
 
 [Trustworthy ML](https://www.trustworthyml.org/)
+
+# Developer Guides
+
+[Detect Posttraining Data and Model Bias with Amazon SageMaker Clarify](https://docs.aws.amazon.com/sagemaker/latest/dg/clarify-configure-processing-jobs.html)
+
+[Google Developers - Machine Learning Glossary: Fairness](https://developers.google.com/machine-learning/glossary/fairness#reporting_bias)
