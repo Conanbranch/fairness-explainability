@@ -123,6 +123,6 @@ Several applicable documents regarding AI and ML. This is not a comprehensive li
 
 # Developer Guides
 
-[Detect Posttraining Data and Model Bias with Amazon SageMaker Clarify](https://docs.aws.amazon.com/sagemaker/latest/dg/clarify-configure-processing-jobs.html)
+[Detect Posttraining Data and Model Bias with Amazon SageMaker Clarify](https://docs.aws.amazon.com/sagemaker/latest/dg/clarify-detect-post-training-bias.html)
 
 [Google Developers - Machine Learning Glossary: Fairness](https://developers.google.com/machine-learning/glossary/fairness#reporting_bias)
