@@ -113,7 +113,7 @@ Several applicable documents regarding AI and ML. This is not a comprehensive li
 
 [Kuo, C. (2020) Explain Your Model with the SHAP Values. *Medium*](https://medium.com/dataman-in-ai/explain-your-model-with-the-shap-values-bc36aac4de3d)
 
-[H. Hajimirsadeghi, T. Durand, C. Srinivasa, V. Nagisetty (2022). Feature Importance and Explainability. *Borealis AI*](https://www.borealisai.com/research-blogs/feature-importance-and-explainability/)
+[H. Hajimirsadeghi, T. Durand, C. Srinivasa, V. Nagisetty (2022) Feature Importance and Explainability. *Borealis AI*](https://www.borealisai.com/research-blogs/feature-importance-and-explainability/)
 
 [Prince, S. (2022) Explainability I: Local Post-hoc Explanations. *Borealis AI*](https://www.borealisai.com/research-blogs/explainability-i-local-post-hoc-explanations/)
 
