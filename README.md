@@ -53,6 +53,8 @@ Sorted from the perspective of interpretability, explainability, and fairness.
 
 [Castelnovo, A., Crupi, R., Greco, G. et al. (2022). A Clarification of the Nuances in the Fairness Metrics Landscape. Sci Rep](https://www.nature.com/articles/s41598-022-07939-1.pdf)
 
+[Friedman, J. H. (2001). Greedy Function Approximation: A Gradient Boosting Machine. Annals of Dtatistics, 1189-1232.](https://projecteuclid.org/journals/annals-of-statistics/volume-29/issue-5/Greedy-function-approximation-A-gradient-boosting-machine/10.1214/aos/1013203451.pdf) - Note: Partial Dependence Plots
+
 # Tools and Libraries
 
 [Shap](https://github.com/slundberg/shap)
