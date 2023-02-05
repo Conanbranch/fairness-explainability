@@ -41,7 +41,7 @@ Sorted from the perspective of interpretability, explainability, and fairness.
 
 [Wachter, S., Mittelstadt, B., & Russell, C. (2017). Counterfactual Explanations without Opening the Black Box: Automated Decisions and the GDPR. Harv. *JL & Tech*](https://jolt.law.harvard.edu/assets/articlePDFs/v31/Counterfactual-Explanations-without-Opening-the-Black-Box-Sandra-Wachter-et-al.pdf)
 
-[Friedman, J. H. (2001). Greedy Function Approximation: A Gradient Boosting Machine. Annals of Dtatistics, 1189-1232. (Partial Dependence Plots)](https://projecteuclid.org/journals/annals-of-statistics/volume-29/issue-5/Greedy-function-approximation-A-gradient-boosting-machine/10.1214/aos/1013203451.pdf)
+[Friedman, J. H. (2001). Greedy Function Approximation: A Gradient Boosting Machine. Annals of Statistics, 1189-1232. (Partial Dependence Plots)](https://projecteuclid.org/journals/annals-of-statistics/volume-29/issue-5/Greedy-function-approximation-A-gradient-boosting-machine/10.1214/aos/1013203451.pdf)
 
 ## Fairness
 
