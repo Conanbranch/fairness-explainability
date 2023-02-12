@@ -123,6 +123,8 @@ Several applicable documents regarding AI and ML. This is not a comprehensive li
 
 [Prince, S. (2022) Explainability II: Global Explanations, Proxy Models, and Interpretable Models. *Borealis AI*](https://www.borealisai.com/research-blogs/explainability-ii-global-explanations-proxy-models-and-interpretable-models/)
 
+[Krishna, D. Han, K. I., Sohail, O., Kaiser, P., Berendsen, S., Kampen, S., Lees, S. (2022) Unleashing the power of machine learning models in banking through explainable artificial intelligence (XAI). *Deloitte*](https://www.deloitte.com/global/en/our-thinking/insights/industry/financial-services/explainable-ai-in-banking.html)
+
 # Courses and Additional Resources
 
 [Interpretability and Explainability in Machine Learning. OMPSCI 282BR. *Harvard University*](https://interpretable-ml-class.github.io/)
