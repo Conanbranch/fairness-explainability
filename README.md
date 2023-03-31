@@ -11,7 +11,7 @@ A repo devoted to publicly available resources on fairness, explainability, and 
 
 # Conferences
 
-[ACM FAcct](https://facctconference.org/)
+[ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)](https://facctconference.org/)
 
 # Papers
 
