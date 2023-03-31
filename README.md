@@ -9,6 +9,10 @@ A repo devoted to publicly available resources on fairness, explainability, and 
 
 [Lakkaraju H. (2022). *Stanford Workshop: Interpreting Machine Learning Models: State-of-the-art, Challenges, Opportunities*](https://www.youtube.com/playlist?list=PLoROMvodv4rPh6wa6PGcHH6vMG9sEIPxL) [(Slides)](https://docs.google.com/presentation/d/1khY_li29A5aUo_cEVRsvO8pcRn7Xp9Bi/mobilepresent?slide=id.p1)
 
+# Conferences
+
+[ACM FAcct](https://facctconference.org/)
+
 # Papers
 
 Sorted from the perspective of interpretability, explainability, and fairness.
