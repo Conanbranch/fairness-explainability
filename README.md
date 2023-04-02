@@ -149,3 +149,15 @@ Several applicable documents regarding AI and ML. This is not a comprehensive li
 [Detect Posttraining Data and Model Bias with Amazon SageMaker Clarify](https://docs.aws.amazon.com/sagemaker/latest/dg/clarify-detect-post-training-bias.html)
 
 [Google Developers - Machine Learning Glossary: Fairness](https://developers.google.com/machine-learning/glossary/fairness#reporting_bias)
+
+# Additional Conferences
+
+https://cvpr2023.thecvf.com/
+
+https://neurips.cc/
+
+https://iclr.cc/
+
+https://icml.cc/
+
+https://facctconference.org/
