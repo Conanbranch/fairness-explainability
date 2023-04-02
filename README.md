@@ -17,7 +17,19 @@ A repo devoted to publicly available resources on fairness, explainability, and 
 
 # Conferences
 
+## Specifically Tailered Toward Fairness, Interpretability, and Explainability
+
 [ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)](https://facctconference.org/)
+
+## Often Includes Content on Fairness, Interpretability, and Explainability
+
+[Conference on Neural Information Processing Systems (NeurIPS)](https://neurips.cc/)
+
+[International Conference on Learning Representations (ICLR)](https://iclr.cc/)
+
+[International Conference on Machine Learning (ICML)](https://icml.cc/)
+
+[IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)](https://cvpr2023.thecvf.com/)
 
 # Papers
 
@@ -149,15 +161,3 @@ Several applicable documents regarding AI and ML. This is not a comprehensive li
 [Detect Posttraining Data and Model Bias with Amazon SageMaker Clarify](https://docs.aws.amazon.com/sagemaker/latest/dg/clarify-detect-post-training-bias.html)
 
 [Google Developers - Machine Learning Glossary: Fairness](https://developers.google.com/machine-learning/glossary/fairness#reporting_bias)
-
-# Additional Conferences
-
-https://cvpr2023.thecvf.com/
-
-https://neurips.cc/
-
-https://iclr.cc/
-
-https://icml.cc/
-
-https://facctconference.org/
