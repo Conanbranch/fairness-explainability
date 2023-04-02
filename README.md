@@ -63,9 +63,11 @@ Sorted from the perspective of interpretability, explainability, and fairness.
 
 [Verma, S., & Rubin, J. (2018, May). Fairness Definitions Explained. *In 2018 IEEE/ACM International Workshop on Software Fairness (Fairware).*](https://vsahil.github.io/files/papers/Fairness_Definitions_Explained_2018.pdf)
 
-[Castelnovo, A., Crupi, R., Greco, G. et al. (2022). A Clarification of the Nuances in the Fairness Metrics Landscape. Sci Rep](https://www.nature.com/articles/s41598-022-07939-1.pdf)
+[Castelnovo, A., Crupi, R., Greco, G. et al. (2022). A Clarification of The Nuances in The Fairness Metrics Landscape. *Sci Rep*](https://www.nature.com/articles/s41598-022-07939-1.pdf)
 
+[Zemel, Rich, et al. (2013) Learning Fair Representations. *ICML* (https://www.cs.toronto.edu/~toni/Papers/icml-final.pdf)
 
+[Learning Fair Representations.]
 
 # Tools and Libraries
 
