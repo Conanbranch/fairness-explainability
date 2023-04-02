@@ -5,7 +5,9 @@ A repo devoted to publicly available resources on fairness, explainability, and 
 
 [Farnadi, G., Liao, Q.V., Creager, E. (2022). *NeurIPS Tutorial: Algorithmic Fairness: At The Intersections*](https://neurips.cc/virtual/2022/tutorial/55815) 
 
-[Cisse, M., Koyejo. S. (2019). *NeurIPS Tutorial: Representation Learning and Fairnesss*](https://nips.cc/Conferences/2019/Schedule?showEvent=13212) [(SlidesLive)](https://slideslive.com/38923185) [(Slides)](https://cs.stanford.edu/~sanmi/documents/Representation_Learning_Fairness_NeurIPS19_Tutorial.pdf)   
+[Cisse, M., Koyejo, S. (2019). *NeurIPS Tutorial: Representation Learning and Fairnesss*](https://nips.cc/Conferences/2019/Schedule?showEvent=13212) [(SlidesLive)](https://slideslive.com/38923185) [(Slides)](https://cs.stanford.edu/~sanmi/documents/Representation_Learning_Fairness_NeurIPS19_Tutorial.pdf)   
+
+[Cisse, M., Russakovsky, O. (2022). *CVPR Tutorial: Algorithmic Fairness: Wy it’s Hard, and Why it’s Interesting*](https://sites.google.com/view/cvpr2022-fairness-tutorial) [(Part 1)](https://www.youtube.com/watch?v=h_aAtC8zvKo) [(Part 2)](https://www.youtube.com/watch?v=h_aAtC8zvKo&t=0s) [(Slides)](https://drive.google.com/file/d/1AL6PgD5HXWscJ8RPl3sHBYBDihfL775m/view) 
 
 # Workshops
 
