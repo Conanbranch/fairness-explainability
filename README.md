@@ -17,11 +17,11 @@ A repo devoted to publicly available resources on fairness, explainability, and 
 
 # Conferences
 
-## Specifically Tailered Toward Fairness, Interpretability, and Explainability
+## Tailered Toward Fairness, Interpretability, and Explainability
 
 [ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)](https://facctconference.org/)
 
-## Often Includes Content on Fairness, Interpretability, and Explainability
+## Includes Content on Fairness, Interpretability, and Explainability
 
 [Conference on Neural Information Processing Systems (NeurIPS)](https://neurips.cc/)
 
