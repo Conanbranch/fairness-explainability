@@ -65,9 +65,8 @@ Sorted from the perspective of interpretability, explainability, and fairness.
 
 [Castelnovo, A., Crupi, R., Greco, G. et al. (2022). A Clarification of The Nuances in The Fairness Metrics Landscape. *Sci Rep*](https://www.nature.com/articles/s41598-022-07939-1.pdf)
 
-[Zemel, Rich, et al. (2013) Learning Fair Representations. *ICML* (https://www.cs.toronto.edu/~toni/Papers/icml-final.pdf)
+[Zemel, Rich, et al. (2013) Learning Fair Representations. *ICML*] (https://www.cs.toronto.edu/~toni/Papers/icml-final.pdf)
 
-[Learning Fair Representations.]
 
 # Tools and Libraries
 
