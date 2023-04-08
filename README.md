@@ -17,9 +17,11 @@ A repo devoted to publicly available resources on fairness, explainability, and 
 
 # Conferences
 
-## Tailered Toward Fairness, Interpretability, and Explainability
+## Tailered Toward Fairness, Interpretability, or Explainability
 
 [ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)](https://facctconference.org/)
+
+[AAAI/ACM Conference on Artificial Intelligence, Ethics, & Society (AIES)](https://www.aies-conference.com/2023/)
 
 ## Includes Content on Fairness, Interpretability, and Explainability
 
@@ -30,6 +32,12 @@ A repo devoted to publicly available resources on fairness, explainability, and 
 [International Conference on Machine Learning (ICML)](https://icml.cc/)
 
 [IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)](https://cvpr2023.thecvf.com/)
+
+[Conference on Uncertainty in Artificial Intelligence (UAI)](https://www.auai.org/uai2022/)
+
+[ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)](https://kdd.org/kdd2023/)
+
+[Conference on Artificial Intelligence and Statistics (AISTATS)](https://virtual.aistats.org/)
 
 # Papers
 
