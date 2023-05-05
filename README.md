@@ -87,6 +87,9 @@ Sorted from the perspective of interpretability, explainability, and fairness.
 
 [Zemel, R., et al. (2013) Learning Fair Representations. *ICML*](https://www.cs.toronto.edu/~toni/Papers/icml-final.pdf)
 
+## LLMs
+
+[Kumar, S., Balachandran, V., Njoo, L., Anastasopoulos, A., Tsvetkov, Y. (2023) Language Generation Models Can Cause Harm: So What Can We Do About It? An Actionable Survey. *EACL 2023*](https://arxiv.org/pdf/2210.07700.pdf) 
 
 # Tools and Libraries
 
