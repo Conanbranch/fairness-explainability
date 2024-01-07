@@ -115,7 +115,7 @@ Sorted from the perspective of interpretability, explainability, and fairness.
 
 [OpenXAI](https://github.com/AI4LIFE-GROUP/OpenXAI)
 
-[Aequitas](http://aequitas.dssg.io/)
+[Aequitas](http://www.datasciencepublicpolicy.org/our-work/tools-guides/aequitas/)
 
 # Regulations, Laws, Strategies, Guidelines, and Codes of Conduct
 
