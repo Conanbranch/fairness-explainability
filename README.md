@@ -61,7 +61,7 @@ Sorted from the perspective of interpretability, explainability, and fairness.
 
 [Mahajan, D., Tan, C., & Sharma, A. (2019). Preserving Causal Constraints in Counterfactual Explanations for Machine Learning Classifiers. *arXiv preprint arXiv:1912.03277*](https://arxiv.org/pdf/1912.03277.pdf)
 
-[Mothilal, R. K., Sharma, A., & Tan, C. (2020). Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency.](https://dl.acm.org/doi/pdf/10.1145/3351095.3372850)
+[Mothilal, R. K., Sharma, A., & Tan, C. (2020). Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations. *In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency.*](https://dl.acm.org/doi/pdf/10.1145/3351095.3372850)
 
 [Liao, Q. V., Gruen, D., & Miller, S. (2020). Questioning the AI: Informing Design Practices for Explainable AI User Experiences. *In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems*](https://arxiv.org/pdf/1908.09635.pdf)
 
