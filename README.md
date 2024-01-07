@@ -1,5 +1,5 @@
-# Fairness, Explainability, and Interpretability
-A repo devoted to publicly available resources on fairness, explainability, and interpretability in machine learning.
+# Fairness, Explainability, Interpretability, and Governance
+A repo devoted to publicly available resources on fairness, explainability, interpretability, and governance in machine learning.
 
 # Tutorials
 
@@ -8,6 +8,8 @@ A repo devoted to publicly available resources on fairness, explainability, and 
 [Cisse, M., Koyejo, S. (2019). *NeurIPS Tutorial: Representation Learning and Fairnesss*](https://nips.cc/Conferences/2019/Schedule?showEvent=13212) [(SlidesLive)](https://slideslive.com/38923185) [(Slides)](https://cs.stanford.edu/~sanmi/documents/Representation_Learning_Fairness_NeurIPS19_Tutorial.pdf)   
 
 [Cisse, M., Russakovsky, O. (2022). *CVPR Tutorial: Algorithmic Fairness: Why it’s Hard, and Why it’s Interesting*](https://sites.google.com/view/cvpr2022-fairness-tutorial) [(Part 1)](https://www.youtube.com/watch?v=h_aAtC8zvKo) [(Part 2)](https://www.youtube.com/watch?v=h_aAtC8zvKo&t=0s) [(Slides)](https://drive.google.com/file/d/1AL6PgD5HXWscJ8RPl3sHBYBDihfL775m/view) 
+
+[Black, E., Heidari, H., Ho, D. (2023) *NuerIPS Tutorial: Governance & Accountability for ML: Existing Tools, Ongoing Efforts, & Future Directions*](https://neurips.cc/virtual/2023/tutorial/73947)
 
 # Workshops
 
@@ -113,7 +115,9 @@ Sorted from the perspective of interpretability, explainability, and fairness.
 
 [OpenXAI](https://github.com/AI4LIFE-GROUP/OpenXAI)
 
-# Regulations, Laws, Strategies, Guidelines
+[Aequitas](http://aequitas.dssg.io/)
+
+# Regulations, Laws, Strategies, Guidelines, and Codes of Conduct
 
 Several applicable documents regarding AI and ML. This is not a comprehensive list. 
 
@@ -122,6 +126,8 @@ Several applicable documents regarding AI and ML. This is not a comprehensive li
 [Canadian Human Rights Act](https://laws-lois.justice.gc.ca/eng/acts/h-6/)
 
 [AIDA - Artificial Intelligence and Data Act](https://www.parl.ca/legisinfo/en/bill/44-1/c-27)
+
+[ISED - Voluntary Code of Conduct on the Responsible Development and Management of Advanced Generative AI Systems](https://ised-isde.canada.ca/site/ised/en/voluntary-code-conduct-responsible-development-and-management-advanced-generative-ai-systems)
 
 ## European Union
 
@@ -142,6 +148,8 @@ Several applicable documents regarding AI and ML. This is not a comprehensive li
 [Hima Lakkaraju](https://himalakkaraju.github.io/)
 
 [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/)
+
+[Rayid Ghani](https://www.rayidghani.com/)
 
 # Posts
 
