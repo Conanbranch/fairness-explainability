@@ -1,5 +1,5 @@
 # Fairness, Explainability, Interpretability, and Governance
-A repo devoted to publicly available resources on fairness, explainability, interpretability, and governance in machine learning.
+A repo devoted to publicly available resources on fairness, explainability, interpretability, and governance in machine learning. 
 
 # Tutorials
 
